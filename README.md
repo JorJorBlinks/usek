@@ -108,7 +108,7 @@ K9:
 
 ##Images and binaries
 
-•Git-LFS -- ATTN: move to v3.6.1 (see CVE-2024-53263)
+•[Git-LFS](guides/Docker/Git-LFS/README.md) -- ATTN: move to v3.6.1 (see CVE-2024-53263)
 
 •AWS S3 integrations
 
